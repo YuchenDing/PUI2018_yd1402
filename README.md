@@ -24,7 +24,7 @@ pwd
 PUI2018
 pwd
 ```
-![image](http://github.com/YuchenDing/PUI2018_yd1402/raw/master/YuchenDing/PUI2018_yd1402/p1.png)
-![image](http://github.com/YuchenDing/PUI2018_yd1402/raw/master/YuchenDing/PUI2018_yd1402/p2.png)
+![image](https://github.com/YuchenDing/PUI2018_yd1402/blob/master/p1.png)
+![image](https://github.com/YuchenDing/PUI2018_yd1402/blob/master/p2.png)
 
     
