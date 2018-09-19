@@ -1,7 +1,9 @@
 # PUI2018_yd1402
-#gittest_yuchending
+# gittest_yuchending
 **steps of setting environmental variables**
+
 **1.access a bash terminal on the CUSP ADRF **
+
 **2.set up my environment**
 
 ```
@@ -22,5 +24,7 @@ pwd
 PUI2018
 pwd
 ```
-![image](http://github.com/YuchenDing/PUI2018_yd1402/raw/master/YuchenDing/p1.png)
-![image](http://github.com/YuchenDing/PUI2018_yd1402/raw/master/YuchenDing/p2.png)
+![image](http://github.com/YuchenDing/PUI2018_yd1402/raw/master/YuchenDing/PUI2018_yd1402/p1.png)
+![image](http://github.com/YuchenDing/PUI2018_yd1402/raw/master/YuchenDing/PUI2018_yd1402/p2.png)
+
+    
