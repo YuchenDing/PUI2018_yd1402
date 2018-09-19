@@ -3,7 +3,7 @@
 
 **steps of setting environmental variables**
 
-**1.access a bash terminal on the CUSP ADRF **
+**1.access a bash terminal on the CUSP ADRF**
 
 **2.set up my environment**
 
