@@ -1,5 +1,6 @@
 # PUI2018_yd1402
 # gittest_yuchending
+
 **steps of setting environmental variables**
 
 **1.access a bash terminal on the CUSP ADRF **
