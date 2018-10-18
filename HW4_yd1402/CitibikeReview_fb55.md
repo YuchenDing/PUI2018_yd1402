@@ -1,3 +1,5 @@
+**THIS IS A REPRODUCTION OF MY QUESTION. YOU DID NOT COME UP WITH YOUR OWN IDEA AND A NULL HYPOTHESIS THAT APPLIES TO IT** 
+
 **If you want point for the third part of the exercise you need to redo this first part and come up with an idea of your own**
 
 
@@ -5,7 +7,6 @@
 _I suspect that women are less likely to bike on recreationally than man. This could manifest in the usage of citibike."
 
 
-**THIS IS A REPRODUCTION OF MY QUESTION> YOU DID NOT COME UP WITH YOUR OWN IDEA AND A NULL HYPOTHESIS THAT APPLIES TO IT** 
 
 NULLNULL  HYPOTHESISHYPOTHE :
 The proportion of women biking on weekends is the same or higher than the proportion of men biking on weekdays
